@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "jQuery": "^1.7.4",
+    "node": "^17.3.0",
+    "puppeteer": "^13.0.1",
+    "request": "^2.88.2"
+  }
+}
